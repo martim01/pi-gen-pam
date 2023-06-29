@@ -1,0 +1,4 @@
+mousepad
+zenity xdg-utils
+gvfs-backends gvfs-fuse
+gnome-keyring

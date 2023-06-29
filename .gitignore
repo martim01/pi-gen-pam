@@ -1,0 +1,5 @@
+64bit/deploy/*
+64bit/work/*
+.pc
+*-pc
+apt-cacher-ng/
